@@ -1,0 +1,67 @@
+2021-12-03 15:37:24 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-03 15:37:24 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-03 15:56:18 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 15:56:18 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 15:56:18 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 15:56:18 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 15:56:18 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 15:56:18 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 15:56:18 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:35:11 - WARNING - "GET /todos/3 HTTP/1.1" 404 1536
+2021-12-03 16:35:11 - WARNING - "GET /todos HTTP/1.1" 404 1536
+2021-12-03 16:35:42 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 16:35:42 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 16:35:42 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 16:35:42 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 16:35:42 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 16:35:42 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 16:35:42 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:35:42 - INFO - "GET /todos HTTP/1.1" 200 2
+2021-12-03 16:35:42 - INFO - "GET /favicon.ico HTTP/1.1" 200 1739
+2021-12-03 16:35:52 - ERROR - ResponseError in 0 on line 0
+2021-12-03 16:36:41 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 16:36:41 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 16:36:41 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 16:36:41 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 16:36:41 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 16:36:41 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 16:36:41 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:36:41 - INFO - "GET /todos HTTP/1.1" 200 2
+2021-12-03 16:36:41 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-03 16:36:41 - INFO - "GET /todos HTTP/1.1" 200 2
+2021-12-03 16:36:41 - INFO - "GET /todos HTTP/1.1" 200 2
+2021-12-03 16:38:51 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 16:38:51 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 16:38:51 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 16:38:51 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 16:38:51 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 16:38:51 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 16:38:51 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:38:56 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 16:38:56 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 16:38:56 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 16:38:56 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 16:38:56 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 16:38:56 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 16:38:56 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:38:56 - INFO - "GET /todos HTTP/1.1" 200 433
+2021-12-03 16:38:56 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-03 16:44:42 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 16:44:42 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 16:44:42 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 16:44:42 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 16:44:42 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 16:44:42 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 16:44:42 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:44:42 - INFO - "POST /todos HTTP/1.1" 200 141
+2021-12-03 16:49:39 - WARNING - "PUT /todos HTTP/1.1" 405 1554
+2021-12-03 16:50:42 - ERROR - JSONDecodeError in /Users/seb/.pyenv/versions/3.9.4/lib/python3.9/json/decoder.py on line 353
+2021-12-03 16:50:42 - ERROR - "PUT /todos HTTP/1.1" 500 1042516
+2021-12-03 16:55:22 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 16:55:22 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 16:55:22 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 16:55:22 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 16:55:22 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 16:55:22 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 16:55:22 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 16:55:22 - INFO - "DELETE /todos/4 HTTP/1.1" 200 143
